@@ -170,7 +170,7 @@ function initengahan(){
 
   function aktipesan4(){
 
-    wallpaper.style="transform: scale(1.5);";kalimat.innerHTML=pesan4.innerHTML " 🥳";kalimat.style="transform:scale(1.2)";setTimeout(aktipesan5,1000);
+    wallpaper.style="transform: scale(1.5);";kalimat.innerHTML=pesan4.innerHTML"🥳";kalimat.style="transform:scale(1.2)";setTimeout(aktipesan5,1000);
 
   }
 
